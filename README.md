@@ -1,11 +1,9 @@
 <h0 align="center">Hi 👋, I'm Mega Kranus</h1>
 <h3 align="center">Intermediate programmer and security engineer</h3>
 
-- 🔭 I’m currently working on [**NastySecrets**](https://github.com/Mega-Kranus/NastySecrets)
-
-- 🌱 I’m currently learning **GO and Pentesting**
-
+- 🌱 I’m currently learning **Pentesting**
 - 📫 How to reach me **Mega-Kranus@proton.me**
+- My TryHackMe Writeups: https://m3gakr4nus.github.io
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
