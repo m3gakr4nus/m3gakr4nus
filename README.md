@@ -2,7 +2,7 @@
 <h3 align="center">Intermediate programmer and security engineer</h3>
 
 - 🌱 I’m currently learning **Pentesting**
-- 📫 How to reach me **Mega-Kranus@proton.me**
+- 📫 How to reach me **m3gakr4nus@proton.me**
 - My TryHackMe Writeups: https://m3gakr4nus.github.io
 
 <h3 align="left">Languages and Tools:</h3>
